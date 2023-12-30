@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Kawasaki",
+    "animal": "30",
+    "img":"http://memeincase.com/wp-content/uploads/2023/11/IMG_4272.png"
+  },
+  {
+    "name": "Cardgo",
+    "animal": "18",
+    "img":"http://memeincase.com/wp-content/uploads/2023/11/IMG_4273-1.png"
+  },
+  {
+    "name": "Crico",
+    "animal": "35",
+    "img":"http://memeincase.com/wp-content/uploads/2023/11/IMG_4274.png"
+  },
+  {
+    "name": "Estriper",
+    "animal": "40",
+    "img":"http://memeincase.com/wp-content/uploads/2023/11/IMG_4271-1.png"
+  }
+]
